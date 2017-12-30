@@ -43,3 +43,7 @@
 [class*="col-"]:first-child {
   margin-left: 0;
 }
+
+.milke_text{
+  margin-top: 10px;
+}
