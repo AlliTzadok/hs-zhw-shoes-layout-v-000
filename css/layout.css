@@ -28,10 +28,12 @@
 
 .col-1 {
   width: 32%;
+  float: left;
   }
 
 .col-2{
   width: 64%;
+  float: left;
 }
 
 [class*="col-"]{
