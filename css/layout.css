@@ -36,7 +36,7 @@
 
 [class*="col-"]{
   float: left;
-  margin-left: 1.5%;
+  margin-left: 1%;
 }
 
 [class*="col-"]:first-child {
